@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundImageView">
+        <attr name="corner_radius" format="dimension" />
+        <attr name="top_start" format="boolean" />
+        <attr name="top_end" format="boolean" />
+        <attr name="bottom_start" format="boolean" />
+        <attr name="bottom_end" format="boolean" />
+    </declare-styleable>
+</resources>
